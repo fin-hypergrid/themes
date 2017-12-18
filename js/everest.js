@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "everest",
+    "columnHeaderBackgroundColor": "rgb(88, 92, 87)",
+    "rowHeaderBackgroundColor": "rgb(88, 92, 87)",
+    "topLeftBackgroundColor": "rgb(88, 92, 87)",
+    "lineColor": "rgb(178, 181, 177)",
+    "backgroundColor2": "rgb(240, 247, 230)",
+    "color": "rgb(89, 79, 79)",
+    "fontFamily": "\"Gentium Basic\", serif",
+    "backgroundColor": "rgb(229, 240, 228)",
+    "columnHeaderColor": "rgb(88, 92, 87)",
+    "rowHeaderColor": "rgb(88, 92, 87)",
+    "topLeftColor": "rgb(88, 92, 87)",
+    "backgroundSelectionColor": "rgb(178, 181, 177)",
+    "foregroundSelectionColor": "rgb(88, 92, 87)",
+    "columnHeaderForegroundSelectionColor": "rgb(88, 92, 87)",
+    "columnHeaderBackgroundSelectionColor": "rgb(178, 181, 177)",
+    "rowHeaderForegroundSelectionColor": "rgb(88, 92, 87)",
+    "fixedColumnBackgroundSelectionColor": "rgb(178, 181, 177)"
+};

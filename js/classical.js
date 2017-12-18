@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "classical",
+    "columnHeaderBackgroundColor": "rgb(96, 101, 101)",
+    "rowHeaderBackgroundColor": "rgb(96, 101, 101)",
+    "topLeftBackgroundColor": "rgb(96, 101, 101)",
+    "lineColor": "rgb(196, 199, 199)",
+    "backgroundColor2": "rgb(236, 236, 236)",
+    "color": "rgb(89, 79, 79)",
+    "fontFamily": "Ledger, serif",
+    "backgroundColor": "rgb(228, 231, 231)",
+    "columnHeaderColor": "rgb(96, 101, 101)",
+    "rowHeaderColor": "rgb(96, 101, 101)",
+    "topLeftColor": "rgb(96, 101, 101)",
+    "backgroundSelectionColor": "rgb(196, 199, 199)",
+    "foregroundSelectionColor": "rgb(96, 101, 101)",
+    "columnHeaderForegroundSelectionColor": "rgb(96, 101, 101)",
+    "columnHeaderBackgroundSelectionColor": "rgb(196, 199, 199)",
+    "rowHeaderForegroundSelectionColor": "rgb(96, 101, 101)",
+    "fixedColumnBackgroundSelectionColor": "rgb(196, 199, 199)"
+};

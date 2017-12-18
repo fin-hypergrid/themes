@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "dark-side",
+    "columnHeaderBackgroundColor": "rgb(39, 41, 41)",
+    "rowHeaderBackgroundColor": "rgb(39, 41, 41)",
+    "topLeftBackgroundColor": "rgb(39, 41, 41)",
+    "lineColor": "rgb(78, 81, 81)",
+    "backgroundColor2": "rgb(33, 33, 33)",
+    "color": "rgb(255, 255, 255)",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "backgroundColor": "rgb(44, 47, 47)",
+    "columnHeaderColor": "rgb(39, 41, 41)",
+    "rowHeaderColor": "rgb(39, 41, 41)",
+    "topLeftColor": "rgb(39, 41, 41)",
+    "backgroundSelectionColor": "rgb(78, 81, 81)",
+    "foregroundSelectionColor": "rgb(39, 41, 41)",
+    "columnHeaderForegroundSelectionColor": "rgb(39, 41, 41)",
+    "columnHeaderBackgroundSelectionColor": "rgb(78, 81, 81)",
+    "rowHeaderForegroundSelectionColor": "rgb(39, 41, 41)",
+    "fixedColumnBackgroundSelectionColor": "rgb(78, 81, 81)"
+};

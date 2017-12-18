@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "seven-seas",
+    "columnHeaderBackgroundColor": "rgb(62, 123, 123)",
+    "rowHeaderBackgroundColor": "rgb(62, 123, 123)",
+    "topLeftBackgroundColor": "rgb(62, 123, 123)",
+    "lineColor": "rgb(162, 208, 208)",
+    "backgroundColor2": "rgb(240, 242, 221)",
+    "color": "rgb(88, 94, 98)",
+    "fontFamily": "Lato, sans-serif",
+    "backgroundColor": "rgb(219, 233, 214)",
+    "columnHeaderColor": "rgb(62, 123, 123)",
+    "rowHeaderColor": "rgb(62, 123, 123)",
+    "topLeftColor": "rgb(62, 123, 123)",
+    "backgroundSelectionColor": "rgb(162, 208, 208)",
+    "foregroundSelectionColor": "rgb(62, 123, 123)",
+    "columnHeaderForegroundSelectionColor": "rgb(62, 123, 123)",
+    "columnHeaderBackgroundSelectionColor": "rgb(162, 208, 208)",
+    "rowHeaderForegroundSelectionColor": "rgb(62, 123, 123)",
+    "fixedColumnBackgroundSelectionColor": "rgb(162, 208, 208)"
+};

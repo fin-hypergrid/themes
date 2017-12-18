@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "gelati",
+    "columnHeaderBackgroundColor": "rgb(37, 126, 136)",
+    "rowHeaderBackgroundColor": "rgb(37, 126, 136)",
+    "topLeftBackgroundColor": "rgb(37, 126, 136)",
+    "lineColor": "rgb(125, 211, 220)",
+    "backgroundColor2": "rgb(0, 160, 176)",
+    "color": "rgb(255, 255, 255)",
+    "fontFamily": "Lato, sans-serif",
+    "backgroundColor": "rgb(33, 172, 186)",
+    "columnHeaderColor": "rgb(37, 126, 136)",
+    "rowHeaderColor": "rgb(37, 126, 136)",
+    "topLeftColor": "rgb(37, 126, 136)",
+    "backgroundSelectionColor": "rgb(125, 211, 220)",
+    "foregroundSelectionColor": "rgb(37, 126, 136)",
+    "columnHeaderForegroundSelectionColor": "rgb(37, 126, 136)",
+    "columnHeaderBackgroundSelectionColor": "rgb(125, 211, 220)",
+    "rowHeaderForegroundSelectionColor": "rgb(37, 126, 136)",
+    "fixedColumnBackgroundSelectionColor": "rgb(125, 211, 220)"
+};

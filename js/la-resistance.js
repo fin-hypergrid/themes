@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "la-resistance",
+    "columnHeaderBackgroundColor": "rgb(97, 97, 97)",
+    "rowHeaderBackgroundColor": "rgb(97, 97, 97)",
+    "topLeftBackgroundColor": "rgb(97, 97, 97)",
+    "lineColor": "rgb(193, 193, 193)",
+    "backgroundColor2": "rgb(224, 224, 224)",
+    "color": "rgb(99, 99, 99)",
+    "fontFamily": "\"Open Sans\", sans-serif",
+    "backgroundColor": "rgb(215, 220, 223)",
+    "columnHeaderColor": "rgb(97, 97, 97)",
+    "rowHeaderColor": "rgb(97, 97, 97)",
+    "topLeftColor": "rgb(97, 97, 97)",
+    "backgroundSelectionColor": "rgb(193, 193, 193)",
+    "foregroundSelectionColor": "rgb(97, 97, 97)",
+    "columnHeaderForegroundSelectionColor": "rgb(97, 97, 97)",
+    "columnHeaderBackgroundSelectionColor": "rgb(193, 193, 193)",
+    "rowHeaderForegroundSelectionColor": "rgb(97, 97, 97)",
+    "fixedColumnBackgroundSelectionColor": "rgb(193, 193, 193)"
+};

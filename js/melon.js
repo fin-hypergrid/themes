@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "melon",
+    "columnHeaderBackgroundColor": "rgb(60, 71, 75)",
+    "rowHeaderBackgroundColor": "rgb(60, 71, 75)",
+    "topLeftBackgroundColor": "rgb(60, 71, 75)",
+    "lineColor": "rgb(122, 142, 149)",
+    "backgroundColor2": "rgb(42, 54, 59)",
+    "color": "rgb(255, 255, 255)",
+    "fontFamily": "Roboto, sans-serif",
+    "backgroundColor": "rgb(58, 71, 76)",
+    "columnHeaderColor": "rgb(60, 71, 75)",
+    "rowHeaderColor": "rgb(60, 71, 75)",
+    "topLeftColor": "rgb(60, 71, 75)",
+    "backgroundSelectionColor": "rgb(122, 142, 149)",
+    "foregroundSelectionColor": "rgb(60, 71, 75)",
+    "columnHeaderForegroundSelectionColor": "rgb(60, 71, 75)",
+    "columnHeaderBackgroundSelectionColor": "rgb(122, 142, 149)",
+    "rowHeaderForegroundSelectionColor": "rgb(60, 71, 75)",
+    "fixedColumnBackgroundSelectionColor": "rgb(122, 142, 149)"
+};

@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "denim",
+    "columnHeaderBackgroundColor": "rgb(42, 45, 61)",
+    "rowHeaderBackgroundColor": "rgb(42, 45, 61)",
+    "topLeftBackgroundColor": "rgb(42, 45, 61)",
+    "lineColor": "rgb(84, 90, 121)",
+    "backgroundColor2": "rgb(55, 59, 80)",
+    "color": "rgb(237, 241, 244)",
+    "fontFamily": "\"Source Sans Pro\", sans-serif",
+    "backgroundColor": "rgb(61, 65, 90)",
+    "columnHeaderColor": "rgb(42, 45, 61)",
+    "rowHeaderColor": "rgb(42, 45, 61)",
+    "topLeftColor": "rgb(42, 45, 61)",
+    "backgroundSelectionColor": "rgb(84, 90, 121)",
+    "foregroundSelectionColor": "rgb(42, 45, 61)",
+    "columnHeaderForegroundSelectionColor": "rgb(42, 45, 61)",
+    "columnHeaderBackgroundSelectionColor": "rgb(84, 90, 121)",
+    "rowHeaderForegroundSelectionColor": "rgb(42, 45, 61)",
+    "fixedColumnBackgroundSelectionColor": "rgb(84, 90, 121)"
+};

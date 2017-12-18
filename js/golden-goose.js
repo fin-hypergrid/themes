@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "golden-goose",
+    "columnHeaderBackgroundColor": "rgb(58, 58, 58)",
+    "rowHeaderBackgroundColor": "rgb(58, 58, 58)",
+    "topLeftBackgroundColor": "rgb(58, 58, 58)",
+    "lineColor": "rgb(116, 116, 116)",
+    "backgroundColor2": "rgb(43, 43, 43)",
+    "color": "rgb(224, 196, 83)",
+    "fontFamily": "\"Source Sans Pro\", sans-serif",
+    "backgroundColor": "rgb(51, 51, 50)",
+    "columnHeaderColor": "rgb(58, 58, 58)",
+    "rowHeaderColor": "rgb(58, 58, 58)",
+    "topLeftColor": "rgb(58, 58, 58)",
+    "backgroundSelectionColor": "rgb(116, 116, 116)",
+    "foregroundSelectionColor": "rgb(58, 58, 58)",
+    "columnHeaderForegroundSelectionColor": "rgb(58, 58, 58)",
+    "columnHeaderBackgroundSelectionColor": "rgb(116, 116, 116)",
+    "rowHeaderForegroundSelectionColor": "rgb(58, 58, 58)",
+    "fixedColumnBackgroundSelectionColor": "rgb(116, 116, 116)"
+};

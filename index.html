@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="themes/bloomberg.css" disabled>
+  <link rel="stylesheet" href="themes/candy.css" disabled>
+  <link rel="stylesheet" href="themes/classical.css" disabled>
+  <link rel="stylesheet" href="themes/dark-side.css" disabled>
+  <link rel="stylesheet" href="themes/denim.css" disabled>
+  <link rel="stylesheet" href="themes/everest.css" disabled>
+  <link rel="stylesheet" href="themes/excel.css" disabled>
+  <link rel="stylesheet" href="themes/gelati.css" disabled>
+  <link rel="stylesheet" href="themes/golden-goose.css" disabled>
+  <link rel="stylesheet" href="themes/ice.css" disabled>
+  <link rel="stylesheet" href="themes/la-resistance.css" disabled>
+  <link rel="stylesheet" href="themes/melon.css" disabled>
+  <link rel="stylesheet" href="themes/seven-seas.css" disabled>
+  <link rel="stylesheet" href="themes/sky.css" disabled>
+  <link rel="stylesheet" href="themes/technology.css" disabled>
+  <link rel="stylesheet" href="themes/the-times.css" disabled>
+  <script>var module = {};</script>
+  <script src="build-theme.js"></script>
+  <script>var buildTheme = module.exports;</script>
+  <script>
+    var themes = {};
+    window.onload = function() {
+        var links = document.querySelectorAll('link');
+        for (var i=0; i<links.length; ++i) {
+            var link = links[i];
+            link.disabled = false;
+            var name = link.href.match(/([\w-]+)\.css/)[1];
+            themes[name] = buildTheme();
+            themes[name].themeName = name;
+            link.disabled = true;
+        }
+        document.querySelector('pre').innerText = JSON.stringify(themes, undefined, 4);
+    };
+  </script>
+</head>
+<body>
+  <pre></pre>
+</body>
+</html>

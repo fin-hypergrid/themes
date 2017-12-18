@@ -1,0 +1,20 @@
+module.exports = {
+    "themeName": "sky",
+    "columnHeaderBackgroundColor": "rgb(126, 141, 157)",
+    "rowHeaderBackgroundColor": "rgb(126, 141, 157)",
+    "topLeftBackgroundColor": "rgb(126, 141, 157)",
+    "lineColor": "rgb(201, 201, 201)",
+    "backgroundColor2": "rgb(255, 255, 255)",
+    "color": "rgb(66, 69, 64)",
+    "fontFamily": "Arimo, sans-serif",
+    "backgroundColor": "rgb(245, 252, 255)",
+    "columnHeaderColor": "rgb(126, 141, 157)",
+    "rowHeaderColor": "rgb(126, 141, 157)",
+    "topLeftColor": "rgb(126, 141, 157)",
+    "backgroundSelectionColor": "rgb(201, 201, 201)",
+    "foregroundSelectionColor": "rgb(126, 141, 157)",
+    "columnHeaderForegroundSelectionColor": "rgb(126, 141, 157)",
+    "columnHeaderBackgroundSelectionColor": "rgb(201, 201, 201)",
+    "rowHeaderForegroundSelectionColor": "rgb(126, 141, 157)",
+    "fixedColumnBackgroundSelectionColor": "rgb(201, 201, 201)"
+};
